@@ -1,4 +1,5 @@
-![logo](blob:https://web.whatsapp.com/49f3a0df-6c24-438f-bd96-336c467001fa)
+![logo](![karan background](https://github.com/KaranPatil2002/karanpatil2002/assets/165469924/8d412084-ffe8-4129-9a41-8d95ecc77f44)
+)
 <h1 align="center">Hi 👋, I'm k@ran patil</h1>
 <h3 align="center">A passionate 1st year MCA Student from India</h3>
 
